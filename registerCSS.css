@@ -1,0 +1,81 @@
+body{
+    height: 1036px;
+    background-image: linear-gradient(rgb(232, 176, 232),rgb(83, 0, 83));
+}
+
+p{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 15px;
+}
+div{
+    background-color: rgba(0, 0, 0, 0.703);
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    padding: 80px;
+    border-radius: 15px;
+
+
+}
+    
+ input{
+    border-radius: 20px;
+    padding: 15px;
+    font-size: 20px;
+    }
+
+
+button{
+    text-align: center;
+    width: 100%;
+    background-color: rgb(89, 0, 255);
+    border-radius: 20px;
+    font-size: 20px;
+    padding: 15px;
+    color: white;
+
+}
+
+
+/*botton:hover{
+    background-color: rgb(16, 246, 246);
+    cursor: pointer;
+}*/
+.logoProvisoria{
+    text-align: center;
+    height: 150px;
+    width: 150px;
+    margin: 10px 10px 20px 65px;
+}
+
+a {
+    color: rgb(220, 220, 220);
+    transition: 0.18s;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(168, 122, 255);
+}
+
+strong {
+    font-weight: bold;
+    font-size: 20px;
+}
+header{
+    background-color: black;
+    width: 95vw;
+    height: 9vh;
+    border-radius: 15px;
+    color: white;
+    
+}
+#bt1{
+    
+    width: 25vw;
+    height: 8vh;
+    
+}
